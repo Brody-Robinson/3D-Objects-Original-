@@ -7,22 +7,22 @@
 </p>
 
 <p align="center">
-  <strong>3D Project</strong> is an interactive 3D visualization application that showcases realistic rendering of complex scenes. This project is ideal for demonstrating proficiency in graphics programming and 3D modeling.
+  <strong>3D Project</strong> is an interactive 3D visualization application that showcases realistic rendering of complex scenes, demonstrating proficiency in graphics programming and 3D modeling using C++ and OpenGL.
 </p>
 
 ---
 
 ## 🚀 Overview
 
-**3D Project** enables users to:
+**3D Project** allows users to:
 - **Render Interactive 3D Objects**: Visualize and manipulate objects in a 3D space with real-time rendering.
 - **Control Animations**: Use user inputs to control animations and explore different perspectives.
-- **Experience Real-time Rendering**: High-performance rendering ensures smooth and realistic visual effects for complex scenes.
+- **Experience Real-time Rendering**: Smooth and realistic visual effects for complex scenes through high-performance rendering.
 
 ### 🌟 Key Features
 - **Interactive 3D Objects**: Dynamically render and manipulate 3D objects in real-time.
 - **User-Controlled Animations**: Customize animations using input controls to create dynamic scenes.
-- **High-Performance Rendering**: Utilize OpenGL for efficient and realistic rendering of detailed 3D models.
+- **High-Performance Rendering**: Leverage OpenGL for efficient and realistic rendering of detailed 3D models.
 
 ## 🛠️ Technology Stack
 - **Programming Language**: C++
@@ -30,7 +30,7 @@
 
 ## 💡 Artifact Description
 
-The **3D Project** was developed as a part of a course project in 2024. It features interactive 3D visualization, enabling users to experience realistic rendering of complex scenes and control animations through user inputs. The project demonstrates advanced skills in graphics programming, data structures, and algorithm implementation.
+The **3D Project** was developed as part of a course project in 2023, featuring a desk scene with several objects: a desk, a laptop, a pen, and a teacup with a saucer. The project enables users to interact with these objects, providing a realistic rendering experience while showcasing advanced skills in graphics programming, data structures, and algorithms.
 
 ### 📈 Key Enhancements
 - **Graphics Programming**: Implemented real-time 3D rendering using OpenGL, showcasing advanced skills in graphics programming.
@@ -70,10 +70,10 @@ To run this project on your local machine:
 
 Contributions are welcome! If you have suggestions for improvements or would like to contribute, please create an issue or submit a pull request.
 
-
 ---
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/Brody-Robinson/3D-Objects-Original-?style=social" alt="GitHub Stars">
   <img src="https://img.shields.io/github/forks/Brody-Robinson/3D-Objects-Original-?style=social" alt="GitHub Forks">
 </p>
+
